@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Konflikt 1
 Konflikt 2
 Version 1
 Version 2
+=======
+Version 1
+Versoin 2
+>>>>>>> myFirstFeature
